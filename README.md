@@ -1,7 +1,6 @@
 # Pokedex Infinite List
 
-It's a project made for testing [react-window](https://react-window.vercel.app/#/examples/list/fixed-size)
-
+It's a project made for testing [react-window](https://react-window.vercel.app/#/examples/list/fixed-size)  
 [Deploy](https://pokedex-infinite-scroll.netlify.app/)
 
 ## Available Scripts
